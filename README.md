@@ -27,11 +27,9 @@ A simple and responsive **Spotify Clone** built using **HTML5, CSS3**, and **Boo
 spotify-clone/
 │
 ├── index.html # Main HTML file
-├── /css/
-│ └── style.css # Custom CSS styles
-├── /assets/
-│ ├── /images/ # Album covers, logos, etc.
-│ └── /icons/ # UI icons (play, pause, etc.)
+├── / style.css # Custom CSS styles
+├── /assets/ # Album covers, logos, etc.
+
 
 
 ## ✅ Getting Started
