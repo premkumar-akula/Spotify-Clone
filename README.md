@@ -3,6 +3,9 @@
 A simple and responsive **Spotify Clone** built using **HTML5, CSS3**, and **Bootstrap 5**. This project recreates the UI of Spotify’s web player and is designed as a practice project for frontend development.
 
 ---
+# Screenshots
+<img width="1920" height="1080" alt="Screenshot 2025-09-17 204317" src="https://github.com/user-attachments/assets/61433638-a10f-4ba0-9cbc-a075544d8518" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-17 204348" src="https://github.com/user-attachments/assets/1fc58408-773e-443f-860e-8980467ff37b" />
 
 ## 🚀 Features
 
